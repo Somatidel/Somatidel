@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Somatidel/Somatidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
